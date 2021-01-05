@@ -1,0 +1,5 @@
+C:\Training\CSharp\InputChecker\bin\Debug\InputChecker.dll
+C:\Training\CSharp\InputChecker\bin\Debug\InputChecker.pdb
+C:\Training\CSharp\InputChecker\obj\Debug\InputChecker.csproj.CoreCompileInputs.cache
+C:\Training\CSharp\InputChecker\obj\Debug\InputChecker.dll
+C:\Training\CSharp\InputChecker\obj\Debug\InputChecker.pdb
